@@ -1,0 +1,6 @@
+C:\Users\Маргарита\Downloads\Programming\Circular Prime\Circular Prime\bin\Debug\Circular Prime.exe.config
+C:\Users\Маргарита\Downloads\Programming\Circular Prime\Circular Prime\bin\Debug\Circular Prime.exe
+C:\Users\Маргарита\Downloads\Programming\Circular Prime\Circular Prime\bin\Debug\Circular Prime.pdb
+C:\Users\Маргарита\Downloads\Programming\Circular Prime\Circular Prime\obj\Debug\Circular Prime.csprojResolveAssemblyReference.cache
+C:\Users\Маргарита\Downloads\Programming\Circular Prime\Circular Prime\obj\Debug\Circular Prime.exe
+C:\Users\Маргарита\Downloads\Programming\Circular Prime\Circular Prime\obj\Debug\Circular Prime.pdb
